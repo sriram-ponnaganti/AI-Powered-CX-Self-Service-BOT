@@ -4,10 +4,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Professional-FF4B4B?style=for-the-badge&logo=streamlit)
 ![NLP](https://img.shields.io/badge/NLP-Sentence--Transformers-green?style=for-the-badge&logo=google-analytics)
 
+<p align="center">
+  <img src="Screenshot 1.png" alt="TechAssist AI" width="800">
+</p>
 **TechAssist AI** is a high-performance, digital-first customer experience solution designed for the Consumer Electronics sector. It leverages advanced Natural Language Processing (NLP) to automate routine troubleshooting while ensuring high-priority or high-emotion issues are seamlessly transitioned to human experts.
 
 ---
-![TechAssist AI Interface](Screenshot 1.png)
+
 ## 🌟 Key Features
 
 - **Semantic Search Engine:** Utilizes `all-MiniLM-L6-v2` transformers to understand user intent beyond simple keyword matching.
