@@ -10,18 +10,12 @@
 **TechAssist AI** is a high-performance, digital-first customer experience solution designed for the Consumer Electronics sector. It leverages advanced Natural Language Processing (NLP) to automate routine troubleshooting while ensuring high-priority or high-emotion issues are seamlessly transitioned to human experts.
 
 ---
-<table border="0">
- <tr>
-    <td>
-      <p align="center"><b>Chat Greeting</b></p>
-      <img src="Screenshot 2.png" alt="TechAssist Greeting" width="400">
-    </td>
-    <td>
-      <p align="center"><b>Troubleshooting Logic</b></p>
-      <img src="Screenshot 3.png" alt="TechAssist Logic" width="400">
-    </td>
- </tr>
-</table>
+<p align="center">
+  <img src="Screenshot 2.png" alt="TechAssist AI" width="800">
+</p>
+<p align="center">
+  <img src="Screenshot 3.png" alt="TechAssist AI" width="800">
+</p>
 
 ## 🌟 Key Features
 
