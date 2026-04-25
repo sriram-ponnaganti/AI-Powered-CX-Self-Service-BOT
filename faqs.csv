@@ -1,0 +1,11 @@
+question,answer,category,urgency
+How do I reset my smartphone to factory settings?,"Go to Settings > System > Reset Options > Erase all data. Ensure you backup your data first.",Technical,Medium
+Why is my laptop battery draining so fast?,"Check for high-power background apps in Task Manager. Reducing screen brightness and updating drivers can also help.",Technical,Low
+My order arrived damaged. What should I do?,"We apologize for the inconvenience. Please upload a photo of the damage to our 'Returns' portal and we will ship a replacement.",Shipping,High
+How do I pair my wireless earbuds?,"Put the earbuds in the case and hold the pairing button for 5 seconds until the light flashes blue. Search for them in your phone's Bluetooth menu.",Technical,Low
+Where can I find my invoice?,"Log in to your account and go to 'Order History'. Select your order and click 'Download Invoice'.",Billing,Low
+Can I extend my product warranty?,"Yes! You can purchase our 'Pro-Care' plan within 30 days of your original purchase via our website.",Billing,Low
+My smart speaker is not responding to voice commands.,"Check if the mute button is on. If not, unplug the device for 10 seconds to perform a power cycle.",Technical,Medium
+How long does shipping take?,"Standard shipping takes 3-5 business days. Express shipping is available for 1-2 business day delivery.",Shipping,Low
+Is my personal data safe on your cloud?,"We use end-to-end encryption and two-factor authentication to ensure your data remains private and secure.",Security,Medium
+I forgot my account password.,"Click 'Forgot Password' on the login screen to receive a reset link via your registered email.",Security,High
