@@ -7,7 +7,7 @@
 **TechAssist AI** is a high-performance, digital-first customer experience solution designed for the Consumer Electronics sector. It leverages advanced Natural Language Processing (NLP) to automate routine troubleshooting while ensuring high-priority or high-emotion issues are seamlessly transitioned to human experts.
 
 ---
-
+![TechAssist AI Interface](screenshot 1.png)
 ## 🌟 Key Features
 
 - **Semantic Search Engine:** Utilizes `all-MiniLM-L6-v2` transformers to understand user intent beyond simple keyword matching.
